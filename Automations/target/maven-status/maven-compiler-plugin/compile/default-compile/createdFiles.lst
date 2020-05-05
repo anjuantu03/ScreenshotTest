@@ -1,0 +1,4 @@
+pageObjects\AmazonHomePage.class
+Amazon\Automations\App.class
+Amazon\Automations\CaptureFullWebPage.class
+Amazon\Automations\base.class
